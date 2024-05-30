@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">Hi, I'm Kayky, a 19-year-old full-stack developer passionate about technology. I love creating innovative solutions using PHP, Java, JavaScript, CSS, HTML, Python and MySQL. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
 
-<!--
-**Kaykyvinicius/Kaykyvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Skills
+#### Stacks:
 
-Here are some ideas to get you started:
+!Python&nbsp;
+!JavaScript&nbsp;
+!HTML&nbsp;
+!CSS&nbsp;
+!Git&nbsp;
+!PHP&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+#### Workstation Tools:
+
+!VScode&nbsp;
+!Intellij&nbsp;
+!ApacheNetBeans&nbsp;
+!Postman&nbsp;
+
+&nbsp;
+&nbsp;
+
+Contacts:
+<div> 
+<a href="https://www.instagram.com/kaykyvg205/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://wa.me/5511994951240" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
+</a>
+</div>&nbsp;&nbsp;
+ 
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
