@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Kayky, a 19-year-old full-stack developer passionate about technology. I love creating innovative solutions using PHP, Java, JavaScript, CSS, HTML, Python and MySQL. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
+<p align="center">Hi, I'm Kayky, a 20-year-old full-stack developer passionate about technology. I love creating innovative solutions using PHP, Java, JavaScript, CSS, HTML, Python and MySQL. Always looking for new challenges and learning. Let's build something amazing together!.</p>&nbsp;
 
 ## My Skills
 
